@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59e9e2c4-a061-4ad3-bd86-33a641de4a1d" name="Changes" comment="Updated sampson page">
+    <list default="true" id="59e9e2c4-a061-4ad3-bd86-33a641de4a1d" name="Changes" comment="Updated and fixed sampson page and index">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/speakers/brancaccio.html" beforeDir="false" afterPath="$PROJECT_DIR$/speakers/brancaccio.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/speakers/sampson.html" beforeDir="false" afterPath="$PROJECT_DIR$/speakers/sampson.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/speaker.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/speaker.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/speakers/c6_sampson.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/speakers/chua.html" beforeDir="false" afterPath="$PROJECT_DIR$/speakers/chua.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/speakers/sorkin.html" beforeDir="false" afterPath="$PROJECT_DIR$/speakers/sorkin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/speakers/toobin.html" beforeDir="false" afterPath="$PROJECT_DIR$/speakers/toobin.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,17 +33,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/alvee/Downloads/A10/images",
-    "settings.editor.selected.configurable": "vcs.Git",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/alvee/Downloads/A10/images&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\alvee\Downloads\A10\images" />
@@ -63,7 +63,8 @@
       <option name="presentableId" value="Default" />
       <updated>1667832977888</updated>
       <workItem from="1667832979128" duration="426000" />
-      <workItem from="1667833623185" duration="7998000" />
+      <workItem from="1667833623185" duration="8629000" />
+      <workItem from="1667858461323" duration="90000" />
     </task>
     <task id="LOCAL-00001" summary="Updated sampson page">
       <created>1667835473883</created>
@@ -72,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667835473883</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Updated and fixed sampson page and index">
+      <created>1667842897728</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667842897728</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,6 +99,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updated sampson page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated sampson page" />
+    <MESSAGE value="Updated and fixed sampson page and index" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated and fixed sampson page and index" />
   </component>
 </project>
