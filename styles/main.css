@@ -84,8 +84,30 @@ article{
 	padding-bottom: .5em;
 	border-bottom: 2px solid #800000;
 	border-top: 2px solid  #800000 ;
+	float:right;
 
 }
+main article img{
+	float:right;
+	margin-top:8px;
+	margin-bottom: 5px;
+	margin-left: 30px;
+	border:1px solid black;
+	padding-bottom: 0em;
+
+}
+
+article h2{
+	padding-top: 0;
+
+}
+
+article h3{
+	font-size: 105%;
+	padding-bottom:.25em;
+
+}
+
  main h2 {
 	color: var(--global-color-1);
 	font-size: 130%;

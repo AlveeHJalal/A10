@@ -29,6 +29,7 @@ section{
     padding-bottom:20px;
 }
 
+
 aside{
     width:215px;
     float:right;
@@ -68,6 +69,43 @@ header img {
 /* the styles for the main content */
 main {
     clear: left;
+
+}
+h1{
+    font-size: 150%;
+    padding-top: .5em;
+    padding-bottom:.25em;
+    margin-bottom:0;
+    margin-top:0;
+    color:#800000;
+
+}
+
+article{
+    padding-top: .5em;
+    padding-bottom: .5em;
+    float:right;
+
+}
+main article img{
+    float:right;
+    margin-top:8px;
+    margin-bottom: 5px;
+    margin-left: 30px;
+    border:1px solid black;
+    padding-bottom: 0em;
+
+}
+
+main article h2{
+    padding-top: 0px;
+    color:black;
+    font-size: 105%;
+}
+
+article h3{
+    font-size: 105%;
+    padding-bottom:.25em;
 
 }
 

@@ -1,19 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59e9e2c4-a061-4ad3-bd86-33a641de4a1d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/images/brancaccio75.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/chua75.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/eire75.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sampson75.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sampson_dinosaur.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sorkin75.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/town_hall_logo.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tynan75.jpg" afterDir="false" />
+    <list default="true" id="59e9e2c4-a061-4ad3-bd86-33a641de4a1d" name="Changes" comment="Updated sampson page">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/speakers/brancaccio.html" beforeDir="false" afterPath="$PROJECT_DIR$/speakers/brancaccio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/speakers/sampson.html" beforeDir="false" afterPath="$PROJECT_DIR$/speakers/sampson.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/speaker.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/speaker.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,8 +63,16 @@
       <option name="presentableId" value="Default" />
       <updated>1667832977888</updated>
       <workItem from="1667832979128" duration="426000" />
-      <workItem from="1667833623185" duration="1701000" />
+      <workItem from="1667833623185" duration="7998000" />
     </task>
+    <task id="LOCAL-00001" summary="Updated sampson page">
+      <created>1667835473883</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667835473883</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,5 +88,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated sampson page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated sampson page" />
   </component>
 </project>
